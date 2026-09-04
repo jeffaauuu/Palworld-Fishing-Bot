@@ -17,5 +17,7 @@ MONITOR = {
     "height": 25,          # just the bar height!
 } 
 ```
-Once done, run the game on your display and start the python script once you are ready. Cast your line into the fishing minigame area and start the minigame. Let the script do its thing and then enjoy the loot.
+Once done, run the game on your display and start the bar_and_fish_detect.py script once you are ready. Cast your line into the fishing minigame area and start the minigame. Let the script do its thing and then enjoy the loot.
 
+# Screenshots
+<img width="2560" height="1440" alt="minigame_on_shot_018" src="https://github.com/user-attachments/assets/e569c987-6622-4760-8414-b5da1d87d498" />

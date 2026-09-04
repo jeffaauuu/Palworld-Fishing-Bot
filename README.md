@@ -10,5 +10,5 @@ MONITOR = {
     "top":    -266 + 415,  # monitor top + our bar y start
     "width":  2560,        # full width
     "height": 25,          # just the bar height!
-}
+} '''
 '''
